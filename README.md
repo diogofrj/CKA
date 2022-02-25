@@ -1,2 +1,2 @@
 # CKA
-Repo de estudo para a Certificação CKA
+Repositorio de estudo para a Certificação CKA
